@@ -1,0 +1,21 @@
+<main class="container">
+  <div class="row py-3">
+    <div class="col-10"></div>
+    <div class="col-2">
+      <select class="form-control" (change)="change($event.target.value)">
+        <option value="en">English</option>
+        <option value="nl">Dutch</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-12">
+      <h2>{{'title' | translate}}</h2>
+      <p>{{text}}</p>
+      <button class="btn btn-outline-primary" (click)="click()">{{'like' | translate}}</button>
+    </div>
+  </div>
+
+
+</main>
