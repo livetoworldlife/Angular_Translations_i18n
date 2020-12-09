@@ -1,4 +1,4 @@
-# Angular_Translations_i18n
+# Angular Translations App (i18n)
 
 This repo contain an example of Angular Translation app
 
@@ -6,9 +6,9 @@ Learn how to translate in the backend and frontend in different languages
 
 
 ## Requirements
+Angular <img align="left" alt="Angular" width="26px" src="https://avatars0.githubusercontent.com/u/139426?s=200&v=4" />       
 
-Angular 
-Express 
+Express <img align="left" alt="Express" width="26px" src="https://avatars1.githubusercontent.com/u/5658226?s=200&v=4" /> 
 
 ## Description
 
