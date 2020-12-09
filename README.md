@@ -18,3 +18,8 @@ This is a repo that will help you learn how the Angular can be used to make an i
 
 This app example will have all the techniques to translate text in the backend, frontend and also translating text in the frontend that is returned from the backend.
 
+The link for [example](https://www.udemy.com/course/multilanguage-site-using-angular-react-vue-and-python/)
+
+
+
+
